@@ -16,10 +16,10 @@ This repository contains code, trained models, and evaluation results for **Proj
 2. **Evaluation Report**  
    A detailed report including metrics, confusion matrices, and example outputs.
 
-3. **Deployed Demo** *(Coming Soon)*  
+3. **Deployed Demo**  
    A Streamlit/Gradio app to interact with the trained models.
 
-4. **Blog Post** *(Coming Soon)*  
+4. **Blog Post** 
    A Medium post explaining the process and results.
 
 ---
@@ -35,12 +35,14 @@ This repository contains code, trained models, and evaluation results for **Proj
 
 | Metric                 | Value                       |
 |------------------------|-----------------------------|
-| Final Accuracy         | *Add your 5-epoch accuracy* |
-| Final F1-Score (Weighted) | *Add your F1 score*        |
+| Final Accuracy         | 60% |
+| Final F1-Score (Weighted) | *59.857|
 
 ### How to Run Task 1
 
-1. Open `Task_1_BERT_Emotion.ipynb` for the full preprocessing, tokenization, and training pipeline.
+1. Open `Task_1_BERT_Emotion.ipynb[bert-emotion-lora-model.zip](https://github.com/user-attachments/files/23194969/bert-emotion-lora-model.zip)
+[EmotionDetection (1).ipynb](https://github.com/user-attachments/files/23194967/EmotionDetection.1.ipynb)
+` for the full preprocessing, tokenization, and training pipeline.
 2. Trained LoRA adapter weights are available in `bert-emotion-lora-adapters/`.
 
 ---
