@@ -39,11 +39,11 @@ This repository contains code, trained models, and evaluation results for **Proj
 | Final F1-Score (Weighted) | *59.857|
 
 ### How to Run Task 1
-
-1. Open `Task_1_BERT_Emotion.ipynb[bert-emotion-lora-model.zip](https://github.com/user-attachments/files/23194969/bert-emotion-lora-model.zip)
-[EmotionDetection (1).ipynb](https://github.com/user-attachments/files/23194967/EmotionDetection.1.ipynb)
-` for the full preprocessing, tokenization, and training pipeline.
-2. Trained LoRA adapter weights are available in `bert-emotion-lora-adapters/`.
+The complete preprocessing, tokenization, and training pipeline is available in the notebook:
+    **[Task_1_BERT_Emotion.ipynb](Task_1_BERT_Emotion.ipynb)**
+   
+2.  The trained and saved LoRA adapter weights (zipped) can be downloaded here:
+    **[bert-emotion-lora-adapters.zip](bert-emotion-lora-adapters.zip)**
 
 ---
 
